@@ -1,5 +1,5 @@
 
-/* The script wroks as follows:
+/* The script works as follows:
 Line drawing is on top of colored picture,
 using CSS clip, the line drawing will only show a portion.
 To keep things in place, the offset adjusts the circle position
